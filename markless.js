@@ -1,4 +1,4 @@
 const define = require("requirejs");
 
-(function markless {
+(function markless() {
 })();
